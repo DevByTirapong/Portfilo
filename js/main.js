@@ -17,8 +17,8 @@ var portShow = [
   { text: "System Signature Control ", path: "images/portfolio/MEA/1.png", language: "all angular" },
   { text: "System Samrt Tax", path: "images/portfolio/Samrt-tax/1.png", language: "all angular" },
   { text: "System Stock", path: "images/portfolio/Stock/1.png", language: "all reactjs" },
-  { text: "System Booking Travel", path: "images/portfolio/travel/1.png", language: "all nuxt" },
-  { text: "System Booking Restaurant", path: "images/portfolio/Restaurant/1.png", language: "all nuxt" },
+  { text: "System Booking Travel", path: "images/portfolio/travel/1.png", language: "all next" },
+  { text: "System Booking Restaurant", path: "images/portfolio/Restaurant/1.png", language: "all next" },
 
 ]
 $(document).ready(function () {
