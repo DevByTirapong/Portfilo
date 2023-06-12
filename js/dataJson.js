@@ -132,7 +132,7 @@ var dataSkill = [
         text : "React Js" , path : "images/icon/react.png"
     } , 
     {
-        text : "Nuxt Js" , path : "images/icon/Nuxt.png"
+        text : "Next Js" , path : "images/icon/Next.png"
     } , 
     {
         text : "C / C++ / C# .Net" , path : "images/icon/c.png"
