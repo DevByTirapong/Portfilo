@@ -10,15 +10,15 @@ var classProject = [
   '.popup-img-restaurant' ,
 ];
 var portShow = [
-  { text: "System Biots", path: "images/portfolio/BigC/B1.png", language: "all Javascript" },
-  { text: "System Project Control", path: "images/portfolio/ProjectControl/P1.png", language: "all Javascript nodejs" },
-  { text: "System Smart City", path: "images/portfolio/TOT/T1.png", language: "all Javascript nodejs" },
-  { text: "System Maxi Operation", path: "images/portfolio/PlanB/PB1.png", language: "all reactjs" },
-  { text: "System Signature Control ", path: "images/portfolio/MEA/1.png", language: "all angular" },
-  { text: "System Samrt Tax", path: "images/portfolio/Samrt-tax/1.png", language: "all angular" },
-  { text: "System Stock", path: "images/portfolio/Stock/1.png", language: "all reactjs" },
-  { text: "System Booking Travel", path: "images/portfolio/travel/1.png", language: "all next" },
-  { text: "System Booking Restaurant", path: "images/portfolio/Restaurant/1.png", language: "all next" },
+  { text: "Biots", path: "images/portfolio/BigC/B1.png", language: "all Javascript" },
+  { text: "Project Control", path: "images/portfolio/ProjectControl/P1.png", language: "all Javascript nodejs" },
+  { text: "Smart City", path: "images/portfolio/TOT/T1.png", language: "all Javascript nodejs" },
+  { text: "Maxi Operation", path: "images/portfolio/PlanB/PB1.png", language: "all reactjs" },
+  // { text: "System Signature Control ", path: "images/portfolio/MEA/1.png", language: "all angular" },
+  // { text: "System Samrt Tax", path: "images/portfolio/Samrt-tax/1.png", language: "all angular" },
+  { text: "Stock", path: "images/portfolio/Stock/1.png", language: "all reactjs" },
+  { text: "Demo Booking Travel", path: "images/portfolio/travel/1.png", language: "all next" },
+  { text: "Demo Booking Restaurant", path: "images/portfolio/Restaurant/1.png", language: "all next" },
 
 ]
 $(document).ready(function () {
